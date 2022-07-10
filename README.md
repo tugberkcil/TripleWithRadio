@@ -24,4 +24,5 @@
 
 ## 🗣️ About
 
-	The purpose of this project is to create a radio appearance using object-oriented programming.
+	The purpose of this project is to create a radio appearance using object-oriented 
+	programming and gui.
